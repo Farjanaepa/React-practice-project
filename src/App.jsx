@@ -1,6 +1,7 @@
 import Counter from './Counter'
 import './App.css'
 import Batsman from './Batsman'
+import Users from './Users'
 
 
 function App() {
@@ -21,7 +22,7 @@ function App() {
   return (
     <>
       <h1>Hellow</h1>
-
+      <Users> </Users>
       <Batsman></Batsman>
 
       <Counter></Counter>
